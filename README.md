@@ -2,6 +2,17 @@
 
 This is a template for a Foundry project.
 
+## Usage
+
+As a [forge template](https://book.getfoundry.sh/projects/creating-a-new-project.html)
+
+```bash
+forge init -t sinakhalili/foundry-template-vscode
+
+# or for the original: 
+# forge init -t ZeframLou/foundry-template
+```
+
 ## Installation
 
 To install with [DappTools](https://github.com/dapphub/dapptools):
